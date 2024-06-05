@@ -1,0 +1,1 @@
+jmeter -n -t C:\homework\congenial-potato-main\jmeter\View_Results_in_Table.jmx -l C:\jMeter\result\result1.csv -e -o C:\jMeter\result\Report
